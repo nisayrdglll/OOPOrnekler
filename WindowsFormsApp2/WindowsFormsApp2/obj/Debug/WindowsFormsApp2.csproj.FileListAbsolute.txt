@@ -1,0 +1,9 @@
+C:\Users\Aybuke\Desktop\c#labsoruları\1.hafta\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\Aybuke\Desktop\c#labsoruları\1.hafta\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\Aybuke\Desktop\c#labsoruları\1.hafta\WindowsFormsApp2\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\Aybuke\Desktop\c#labsoruları\1.hafta\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Form1.resources
+C:\Users\Aybuke\Desktop\c#labsoruları\1.hafta\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\Aybuke\Desktop\c#labsoruları\1.hafta\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\Aybuke\Desktop\c#labsoruları\1.hafta\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\Aybuke\Desktop\c#labsoruları\1.hafta\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\Aybuke\Desktop\c#labsoruları\1.hafta\WindowsFormsApp2\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
